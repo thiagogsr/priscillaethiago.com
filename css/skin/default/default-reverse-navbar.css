@@ -5,14 +5,14 @@
 /* 02.1.3 Top Bar 								 */
 /* ----------------------------------------------*/
 #nav-bar.top-bar.stick-it{
-	background-color:#f0394d
+	background-color:#fb7fa2
 }
 
 /* 02.1.4 Bottom Bar 							 */
 /* ----------------------------------------------*/
 
 #nav-bar.bottom-bar.stick-it{
-	background-color:#f0394d;
+	background-color:#fb7fa2;
 }
 
 /* 02.1.5 Transparent & Block Color 			 */
@@ -24,7 +24,7 @@
 
 #nav-bar.block-color{
 	/*position:relative; */ 
-	background-color:#f0394d;
+	background-color:#fb7fa2;
 }
 
 /*.is-sticky #nav-bar.block-color{
@@ -54,7 +54,7 @@
 /* 03.1.1 Transparent 							 */
 /* ----------------------------------------------*/
 .transparent #nav-menu > li:before{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 .transparent #nav-menu > li a{
@@ -62,7 +62,7 @@
 }
 
 .transparent #nav-menu > li a:hover{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 .transparent.stick-it #nav-menu > li a{
@@ -82,7 +82,7 @@
 /* 03.2 Child Menu								 */
 /* ----------------------------------------------*/
 #nav-menu ul{
-	border-top-color:#f0394d
+	border-top-color:#fb7fa2
 }
 
 #nav-menu ul li a{
@@ -91,7 +91,7 @@
 }   
 
 #nav-menu ul li a:hover{
-	background-color:#f0394d;
+	background-color:#fb7fa2;
 	color:#FFF;
 }
 
@@ -140,7 +140,7 @@
 /* 04.3.1 Sidebar */
 /* ----------------------------------------------*/
 .sb-slidebar{
-	background-color:#f0394d;
+	background-color:#fb7fa2;
 	border-left:none;
 	border-right:none;
 }
@@ -178,21 +178,21 @@
 /* ----------------------------------------------*/
 .css-logo{
 	background-color:#FFF;
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 .transparent .css-logo{
-	background-color:#f0394d;
+	background-color:#fb7fa2;
 	color:#FFF;
 }
 
 .stick-it .css-logo{
 	background-color:#FFF;
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 #menuicon-bar .css-logo{
-	background-color:#f0394d;
+	background-color:#fb7fa2;
 	color:#FFF;
 }
 

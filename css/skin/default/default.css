@@ -2,15 +2,15 @@
 /* 00. PRELOADER		 						 */
 /*===============================================*/
 .heart-animation i{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 .top-heart{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 .her-name{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 /*===============================================*/
@@ -19,7 +19,7 @@
 
 h1 a:hover, h2 a:hover, h3 a:hover, 
 h4 a:hover, h5 a:hover, h6 a:hover{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 /*===============================================*/
@@ -30,28 +30,28 @@ h4 a:hover, h5 a:hover, h6 a:hover{
 /* 03.1 Parent Menu								 */
 /* ----------------------------------------------*/
 #nav-menu > li:before{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 #nav-menu > li a:hover{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 /* 03.1.1 Transparent 							 */
 /* ----------------------------------------------*/
 .transparent #nav-menu > li a:hover{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 /* ----------------------------------------------*/
 /* 03.2 Child Menu								 */
 /* ----------------------------------------------*/
 #nav-menu ul{
-	border-top-color:#f0394d;
+	border-top-color:#fb7fa2;
 }
 
 #nav-menu ul li a:hover{
-	background-color:#f0394d;
+	background-color:#fb7fa2;
 }
 
 /* ----------------------------------------------*/
@@ -61,13 +61,13 @@ h4 a:hover, h5 a:hover, h6 a:hover{
 /* 04.2.1 Standard Menu Icon */
 /* ----------------------------------------------*/
 #menu-icon.white a:hover i, #menu-icon a:hover i{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 /* 04.2.2 Sticky Menu Icon */
 /* ----------------------------------------------*/
 #sticky-menuicon a:hover{
-	background-color:#f0394d;
+	background-color:#fb7fa2;
 }
 
 /* ----------------------------------------------*/
@@ -77,17 +77,17 @@ h4 a:hover, h5 a:hover, h6 a:hover{
 /* 04.3.2 Close Button */
 /* ----------------------------------------------*/
 #close-button:hover i{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 /* 04.3.3 Parent Menu */
 /* ----------------------------------------------*/
 #side-nav-menu > li > a:before{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 #side-nav-menu > li a:hover{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 
@@ -99,7 +99,7 @@ h4 a:hover, h5 a:hover, h6 a:hover{
 /* 05.1	CSS Logo								 */
 /* ----------------------------------------------*/
 .css-logo{
-	background-color:#f0394d;
+	background-color:#fb7fa2;
 }
 
 
@@ -110,7 +110,7 @@ h4 a:hover, h5 a:hover, h6 a:hover{
 /* 06.5.6 Save The Date Title */
 /* ----------------------------------------------*/
 .pink-dot{
-	color: #f0394d;
+	color: #fb7fa2;
 }
 
 /*===============================================*/
@@ -120,7 +120,7 @@ h4 a:hover, h5 a:hover, h6 a:hover{
 /* 07.1.6 Page Sidebar				 			 */
 /* ----------------------------------------------*/
 .sidebar-menu li a:hover{
-	color: #f0394d;
+	color: #fb7fa2;
 }
 
 
@@ -131,33 +131,33 @@ h4 a:hover, h5 a:hover, h6 a:hover{
 /* 07.2.4 Title-Excerpt White Box				 */
 /* ----------------------------------------------*/
 .title-excerpt .custom-heart-icon{
-	color:#f0394d !important; 
+	color:#fb7fa2 !important; 
 }
 
 
 /* 07.2.9 HEART DIVIDER							 */
 /* ----------------------------------------------*/
 .pink-heart{
-	color:#f0394d; 
+	color:#fb7fa2; 
 }
 
 
 /* 07.2.10 BUTTON					 			 */
 /* ----------------------------------------------*/
 a.de-button.reverse, span.de-button.reverse, input[type=submit].reverse{
-	background-color:#f0394d; 
-	border:solid 1px #f0394d;
+	background-color:#fb7fa2; 
+	border:solid 1px #fb7fa2;
 }
 
 a.de-button:hover, input[type=submit]:hover{
-	background-color:#f0394d;
-	border-color:#f0394d;
+	background-color:#fb7fa2;
+	border-color:#fb7fa2;
 }
 
 /* 07.2.11 Banner Text				 			 */
 /* ----------------------------------------------*/
 .banner-text.withlove:after{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 /*===============================================*/
@@ -171,29 +171,29 @@ a.de-button:hover, input[type=submit]:hover{
 /* 08.2.1 Default								  */
 /*------------------------------------------------*/
 .de-icon.default.reverse{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 a:hover .de-icon.default, a:hover .de-icon.default.light{
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 /* 08.2.2 Circle, Rounded, Square				  */
 /*------------------------------------------------*/
 .de-icon.square.reverse, .de-icon.circle.reverse, .de-icon.rounded.reverse{
-	background-color:#f0394d;
+	background-color:#fb7fa2;
 	color:#FFF;
 }
 
 .de-icon.square.light.reverse, .de-icon.circle.light.reverse, .de-icon.rounded.light.reverse{
 	background-color:#FFF;
-	color:#f0394d;
+	color:#fb7fa2;
 }
 
 .de-icon.outline.reverse{
 	background-color:transparent;
-	color:#f0394d;
-	border:1px solid #f0394d;
+	color:#fb7fa2;
+	border:1px solid #fb7fa2;
 }
 
 .de-icon.outline.light, .de-icon.outline.light.reverse{
@@ -204,7 +204,7 @@ a:hover .de-icon.default, a:hover .de-icon.default.light{
 
 
 a:hover .de-icon.circle, a:hover .de-icon.rounded, a:hover .de-icon.square{
-	background-color:#f0394d;
+	background-color:#fb7fa2;
 	color:#FFF;
 	border:none;
 }
@@ -213,7 +213,7 @@ a:hover .de-icon.circle, a:hover .de-icon.rounded, a:hover .de-icon.square{
 /* 08.5 Effect Square/Rounded To Circle 	  	  */
 /*------------------------------------------------*/
 a:hover .de-icon.effect3{
-	background-color:#f0394d;
+	background-color:#fb7fa2;
 	color:#fff;
 	border-radius: 50%;
 }
@@ -230,8 +230,8 @@ form .btn-primary.focus,
 form .btn-primary:active,
 form .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-	background-color:#f0394d; 
-	border-color:#f0394d;
+	background-color:#fb7fa2; 
+	border-color:#fb7fa2;
 	color:#FFF;
  	border-color: #cccccc;
 }
@@ -240,7 +240,7 @@ form .btn-primary.active,
 /* 11.8 Message									 */
 /*-----------------------------------------------*/
 .message .bg-danger{
-	background-color:#f0394d; 
+	background-color:#fb7fa2; 
 }
 
 /*===============================================*/
@@ -251,7 +251,7 @@ form .btn-primary.active,
 /* 14.2 Couple Section							 */
 /* ----------------------------------------------*/
 .his-her-name .custom-heart{
-	background-color:#f0394d;  
+	background-color:#fb7fa2;  
 }
 
 
@@ -259,21 +259,21 @@ form .btn-primary.active,
 /* 14.3 Our Story Section						 */
 /* ----------------------------------------------*/
 .story-date{
-	background-color:#f0394d; 
+	background-color:#fb7fa2; 
 }
 
 /* ----------------------------------------------*/
 /* 14.4 Where When Section						 */
 /* ----------------------------------------------*/
 .and{
-	color:#f0394d; 
+	color:#fb7fa2; 
 }
 
 /* ----------------------------------------------*/
 /* 14.6 Don't Miss It / Countdown Section		 */
 /* ----------------------------------------------*/
 .circle-countdown .countdown-amount {
-	background-color:#f0394d; 
+	background-color:#fb7fa2; 
 }
 
 /*===============================================*/
@@ -281,7 +281,7 @@ form .btn-primary.active,
 /*===============================================*/
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span{
-	background: #f0394d; 
+	background: #fb7fa2; 
 }
 
 @media screen and (max-width: 991px) {	
@@ -293,12 +293,12 @@ form .btn-primary.active,
 /* 03.1 Parent Menu 						     */
 /* ----------------------------------------------*/
 #nav-menu li a:hover{
-	background-color:#f0394d;
+	background-color:#fb7fa2;
 	color:#FFF;
 }
 
 .transparent #nav-menu li a:hover{
-	background-color:#f0394d;
+	background-color:#fb7fa2;
 	color:#FFF;
 }
 }

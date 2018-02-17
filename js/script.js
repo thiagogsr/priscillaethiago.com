@@ -246,13 +246,14 @@ $(document).ready(function() {
 
   // 07. COUNTDOWN
   //===================================================================================
-  var theday = new Date();
-  theday = new Date(2019, 1, 12);
+  var theday = new Date(2019, 1, 12);
+
   $('#countdown').countdown({
     until: theday,
     format: 'WDHMS'
   });
-  $('#countdown').countdown($.countdown.regionalOptions['custom-label']);
+
+  $('#countdown').countdown($.countdown.regionalOptions['pt-BR']);
 
   $('#date-countdown').countdown({
     until: theday,

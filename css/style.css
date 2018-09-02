@@ -2673,6 +2673,7 @@ footer .image-divider.fixed-height{
   font-family: 'Oswald', sans-serif;
   letter-spacing:3px;
   font-size:14px;
+  color: #fff;
 }
 
 /* ----------------------------------------------*/
@@ -2822,10 +2823,6 @@ footer .image-divider.fixed-height{
 /* ----------------------------------------------*/
 /* 14.5 Gallery Section							 */
 /* ----------------------------------------------*/
-#gallery-section{
-  padding: 140px 0
-}
-
 #gallery-section .photo-item{
   margin-bottom:30px;
 }

@@ -291,12 +291,9 @@ $(document).ready(function() {
       autoPlay: 2000,
       stopOnHover: true,
       pagination: true,
+      center: true,
+      nav: true,
     });
-
-    if (device.tablet() || device.mobile()) {
-      var owl_gift = $("#gift-registry").data('owlCarousel');
-      owl_gift.stop()
-    }
   }
 
   // 10.2 OWL CAROUSEL - MORE EVENTS (ONEPAGE)
@@ -310,11 +307,6 @@ $(document).ready(function() {
       pagination: true,
       navigation: false,
     });
-
-    if (device.tablet() || device.mobile()) {
-      var owl_events = $("#events-carousel").data('owlCarousel');
-      owl_events.stop()
-    }
   }
 
   // 10.3 OWL CAROUSEL - REGISTRY LOGO (ONEPAGE)
@@ -327,11 +319,6 @@ $(document).ready(function() {
       pagination: false,
       navigation: false,
     });
-
-    if (device.tablet() || device.mobile()) {
-      var owl_logo = $("#registry-logo").data('owlCarousel');
-      owl_logo.stop()
-    }
   }
 
   // 11.1 Custom Checkbox

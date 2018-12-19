@@ -246,7 +246,7 @@ $(document).ready(function() {
 
   // 07. COUNTDOWN
   //===================================================================================
-  var theday = new Date(2019, 1, 12);
+  var theday = new Date(2019, 0, 12);
 
   $('#countdown').countdown({
     until: theday,
